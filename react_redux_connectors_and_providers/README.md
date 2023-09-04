@@ -1,0 +1,1 @@
+readme file for react_redux_connectors_and_providers
